@@ -1,0 +1,1 @@
+Although React Native uses a bridge to render native UI components, this implementation is classified as Hybrid/Shell architecture because it does not render native UI. Instead, it acts as a native container that loads an external web application inside a WebView, making the UI entirely web-based.
