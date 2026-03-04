@@ -1,0 +1,1 @@
+It is considered Hybrid because the UI is rendered inside a WebView using a browser engine, not native components. The application acts only as a native container that hosts web content rather than building a native interface.
